@@ -2,7 +2,7 @@
 This is all things Azure related; Personal projects, learning notes, tasks from courses and more.
 
 ## Certifications
-- Currently working on the Coursera Azure Sc-900 certification
+- Currently working on the Coursera Azure Sc-900 certification course
 - Planning on beginning the Azure Sc-500 certification once released / Sc-900 completed
 
 ### Working on some own sideprojects:
